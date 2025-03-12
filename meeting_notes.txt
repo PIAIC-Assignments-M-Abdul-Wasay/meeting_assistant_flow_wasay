@@ -1,0 +1,47 @@
+
+Abdul Wasay: Hey Ahmed, let's sync up on these generative AI projects. We've got CrewAI (learning and multiple projects) 
+and a RAG project to tackle.
+
+
+Ahmed Ali: Morning, Abdul Wasay! Sounds good. What's the plan for CrewAI?
+
+
+Abdul Wasay: We need a deep dive into CrewAI, then build several projects to cover different use cases: content creation, 
+customer service, data analysis, maybe even software development tasks. Focus on the backend logic first.
+
+
+Ahmed Ali: Got it. Multiple projects to build a portfolio. What about the RAG project?
+
+
+Abdul Wasay: The RAG system needs to retrieve relevant information from a knowledge base and generate coherent,
+ synthesized responses to various query types.
+
+
+Ahmed Ali: On the backend, I'll focus on retrieval and generation, using libraries like LangChain and vector databases. 
+We need to handle query processing, retrieval, context preparation, generation, and error handling.
+
+
+Abdul Wasay: Exactly. We need efficient retrieval, contextual generation, and good error handling. 
+Think about test cases for different query types.
+
+
+Ahmed Ali: I'll prepare a test plan covering the entire flow.
+
+
+Abdul Wasay: Let's aim for understanding CrewAI and one working project in two weeks,
+ then a week for the initial RAG implementation. Testing is crucial.
+
+
+Ahmed Ali: Sounds good. I'll keep you updated. We'll also need to document our progress.
+
+
+Abdul Wasay: Perfect. Let's meet next week to review. Reach out if you need help.
+
+
+Ahmed Ali: Will do. Starting on CrewAI today.
+
+
+Abdul Wasay: Awesome. Thanks, Ahmed. Let's build some cool AI!
+
+
+Ahmed Ali: You too, Abdul Wasay. Talk soon!
