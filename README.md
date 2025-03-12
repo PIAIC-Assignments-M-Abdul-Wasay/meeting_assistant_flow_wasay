@@ -1,6 +1,6 @@
 # CrewAI Meeting Assistant
 
-[![Video Demo](https://www.linkedin.com/feed/update/urn:li:activity:7305422271316164608/)
+## Project Video: (https://www.linkedin.com/feed/update/urn:li:activity:7305422271316164608/)
 
 ## Overview
 
