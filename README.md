@@ -1,6 +1,6 @@
 # CrewAI Meeting Assistant
 
-[![Video Demo]([https://img.shields.io/badge/Video%20Demo-Watch%20Now-red?style=for-the-badge&logo=youtube](https://www.linkedin.com/feed/update/urn:li:activity:7305422271316164608/))](YOUR_VIDEO_LINK_HERE)
+[![Video Demo](https://www.linkedin.com/feed/update/urn:li:activity:7305422271316164608/)
 
 ## Overview
 
